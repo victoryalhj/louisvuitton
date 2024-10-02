@@ -1,0 +1,12 @@
+/* nav */
+li a {
+  cursor: pointer;
+}
+.btn-outline-success {
+  color: #d2691e;
+  border: 1px solid #d2691e;
+}
+.btn-outline-success:hover {
+  background-color: #d2691e;
+  border: 1px solid #d2691e;
+}
